@@ -1,0 +1,4 @@
+#ifndef __SYS_EEPROM_PLATFORM_H_
+#define __SYS_EEPROM_PLATFORM_H_
+
+#endif /* __SYS_EEPROM_PLATFORM_H_ */
